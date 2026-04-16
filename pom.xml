@@ -61,7 +61,7 @@
                         <id>default-cli</id>
                         <configuration>
                             <mainClass>
-                                org.example.sdev200module5assignment1/org.example.sdev200module5assignment1.HelloApplication
+                                org.example.sdev200module5assignment1/org.example.sdev200module5assignment1.FlagDisplay
                             </mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
