@@ -8,6 +8,12 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
+// Flag Displayer
+// Displays 4 provided flags in a grid
+// Chad Swift
+// SDEV200-50P
+// Module 4 Assignment 1
+
 public class FlagDisplay extends Application {
     @Override
     public void start(Stage stage) {
