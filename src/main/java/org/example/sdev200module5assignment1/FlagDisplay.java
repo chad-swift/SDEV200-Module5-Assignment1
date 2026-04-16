@@ -8,7 +8,7 @@ import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.stage.Stage;
 
-public class HelloApplication extends Application {
+public class FlagDisplay extends Application {
     @Override
     public void start(Stage stage) {
         // create the grid
